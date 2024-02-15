@@ -1,4 +1,4 @@
-## Hello Stranger, I am Manushi Mukhin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+## Hello Stranger, I am Manushi Mukhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
 Welcome to my Github Profile, I keep my projects here for everyone to see.
 
