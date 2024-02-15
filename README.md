@@ -4,7 +4,10 @@ Welcome to my Github Profile, I keep my projects here for everyone to see.
 
 ### About Me:
 
+* I am studying in Computer Application and I love solving problems with coding
 * I am mainly interested in Data Science & Web Development!
+* I am looking to develop my skills through real world problems
+
 
 ### What I use on an average day(basically daily)
 
